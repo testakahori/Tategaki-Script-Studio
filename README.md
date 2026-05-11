@@ -59,17 +59,20 @@ npm run dev
 
 ## ローカルサーバー:
 
-http://localhost:3000
+[http://localhost:3000
+](http://localhost:3000
+)
 
 ## 本番ビルド:
 
 npm run build
-Tech Stack
-Next.js
-React
-TypeScript
-CSS
-Browser Print API
+
+## Tech Stack
+ - Next.js
+ - React
+ - TypeScript
+ - CSS
+ - Browser Print API
 
 ## Notes
 PDF出力は、画面の縦書きレイアウトとズレにくくするため、ブラウザの印刷機能を利用しています。
